@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:joelerego/graphql-server-example.git",
   "author": "Joel E Rego <joelerego@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.0.1"
+  }
 }
